@@ -1,0 +1,38 @@
+- Action Adventure 动作冒险
+- Basic Locomotion 基本运动
+- Basic Shooter 基本射手
+- Breakdance 霹雳舞
+- Capoeira 卡波艾拉舞蹈武术
+- Creature NPC 生物 NPC
+- Creature 生物
+- Farming 农业
+- Female Basic Locomotion 女性基本运动
+- Female Locomotion 女性运动
+- Free Test 免费测试
+- Gestures Basic 手势基础
+- Great Sword 大剑
+- Lite Longbow 精简长弓
+- Lite Magic 精简魔法
+- Lite Rifle 精简步枪
+- Lite Sword And Shield 精简剑盾
+- Locomotion 运动
+- Longbow Aiming 长弓瞄准
+- Longbow Locomotion 长弓运动
+- Magic Locomotion 魔法运动
+- Magic Spell 魔法法术
+- Male Drunk 男性醉酒
+- Male lnjured 男性受伤
+- Male Locomotion 男性运动
+- Not So Scary Zombie 非恐怖僵尸
+- Pistol Handgun Locomotion 手枪运动
+- Pro Longbow 专业长弓
+- Pro Magic 专业魔法
+- Pro Melee Axe 专业近战斧
+- Pro Rifle 专业步枪
+- Pro Sword And Shield 专业剑盾
+- Rifle 8-Way Locomotion 步枪八向运动
+- Scary Zombie 恐怖僵尸
+- Shooter 射手
+- Slim Shooter 苗条射手
+- Soccer Game 足球游戏
+- Sword And 剑盾
